@@ -46,7 +46,7 @@ This repository contains a comprehensive dashboard and analysis for the General 
 
 ## How to Use the Dashboard
 
-1. Open the dashboard file in your preferred data visualization tool (e.g., Excel, Tableau).
+1. Open the dashboard file in your preferred data visualization tool (Excel).
 2. Explore different tabs corresponding to each question to uncover detailed insights.
 3. Refer to the charts, graphs, and tables for a visual representation of the data.
 
