@@ -2,7 +2,8 @@
 
 ## Overview
 
-![Dashboard Screenshot](https://drive.google.com/file/d/1G8UtjlFxrjvZci3pu0zS4Js9ZK75w582/view?usp=sharing)
+![Dashboard Screenshot](https://github.com/pranjalprateek6/General-Clothing-Dashboard/assets/88288212/402ad7d8-aef1-4732-b082-9eab6a28fdf9)
+
 
 
 This repository contains a comprehensive dashboard and analysis for the General Clothing Store Report of the year 2022. The dashboard provides insights into various aspects of the business, allowing for a deeper understanding of sales patterns, customer demographics, and channel contributions.
